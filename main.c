@@ -15,6 +15,7 @@ int main()
     x2 = (-b - d) / 2;
 
     printf("x1=%lf,x2=%lf\n", x1, x2);
+    printf("hello qzr!");
 
     return 0;
 }
